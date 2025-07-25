@@ -1,7 +1,3 @@
-<head>
-  <link rel="icon" href="https://gogie.com/favicon.ico" type="image/x-icon" />
-</head>
-
 # 🍇 Gojiberry Electronics Pvt. Ltd.
 
 Welcome to the official GitHub space for **Gojiberry Electronics Pvt. Ltd.**  
